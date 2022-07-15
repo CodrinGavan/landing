@@ -1,3 +1,7 @@
 # landing
  Landing Page
-<img src="https://raw.githubusercontent.com/CodrinGavan/landing/master/landing.png"/>
+ <ul>
+ <li>
+ <a href="https://codringavan.github.io/landing/">Live Preview</a>
+ </li>
+ </ul>
